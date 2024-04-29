@@ -1,0 +1,54 @@
+.user-1-6-icon {
+  width: 62.9px;
+  height: 62.9px;
+  position: relative;
+  object-fit: cover;
+}
+.user-1-6-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 2.5px;
+}
+.python-developer1 {
+  font-size: 10px;
+  color: #0b74ad;
+}
+.john-doe-python-container {
+  align-self: stretch;
+  position: relative;
+  font-weight: 500;
+}
+.interview-with-stella,
+.mins-ago4 {
+  position: relative;
+  font-size: 11px;
+  display: inline-block;
+  min-width: 118.2px;
+}
+.mins-ago4 {
+  font-size: 9px;
+  min-width: 58.6px;
+}
+.john-doe-python-developer-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 9.1px;
+}
+.frame-parent97 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 0 1px;
+  gap: 12px;
+  text-align: left;
+  font-size: 12px;
+  color: #3e3e3e;
+  font-family: Poppins;
+}

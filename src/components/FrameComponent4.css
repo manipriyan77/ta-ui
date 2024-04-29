@@ -1,0 +1,245 @@
+.frame-child92,
+.logo-1-1-icon {
+  position: relative;
+  max-width: 100%;
+}
+.frame-child92 {
+  height: 125px;
+  width: 1920px;
+  box-shadow: 4px 4px 25px rgba(0, 0, 0, 0.15);
+  background-color: #fff;
+  display: none;
+}
+.logo-1-1-icon {
+  align-self: stretch;
+  flex: 1;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  z-index: 2;
+}
+.logo-1-1-wrapper {
+  align-self: stretch;
+  width: 231.8px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1.2px 0 0;
+  box-sizing: border-box;
+}
+.frame-child93 {
+  height: 64px;
+  width: 450px;
+  position: relative;
+  box-shadow: 4px 4px 25px rgba(0, 0, 0, 0.15);
+  border-radius: 5px;
+  background-color: #fff;
+  display: none;
+  max-width: 100%;
+}
+.search2 {
+  width: 57px;
+  border: 0;
+  outline: 0;
+  font-family: Poppins;
+  font-size: 16px;
+  background-color: transparent;
+  height: 24px;
+  position: relative;
+  color: rgba(0, 0, 0, 0.2);
+  text-align: center;
+  display: inline-block;
+  padding: 0;
+  z-index: 1;
+}
+.search-interface-symbol-1-icon {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  object-fit: contain;
+  min-height: 25px;
+  z-index: 1;
+}
+.frame-parent80,
+.rectangle-parent31 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.rectangle-parent31 {
+  flex: 1;
+  box-shadow: 4px 4px 25px rgba(0, 0, 0, 0.15);
+  border-radius: 5px;
+  background-color: #fff;
+  justify-content: space-between;
+  padding: 19.5px 23px 19.5px 23.1px;
+  box-sizing: border-box;
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  gap: 20px;
+  z-index: 2;
+}
+.frame-parent80 {
+  align-self: stretch;
+  width: 770.5px;
+  justify-content: flex-start;
+  gap: 88.7px;
+}
+.day-mode-1-icon {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  object-fit: cover;
+  z-index: 2;
+}
+.day-mode-1-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 5px 0 0;
+}
+.component-1-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 15px;
+}
+.chat-2-icon {
+  position: absolute;
+  height: 74.07%;
+  width: 74.07%;
+  top: 11.11%;
+  right: 11.11%;
+  bottom: 14.81%;
+  left: 14.81%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+  z-index: 1;
+}
+.component-1 {
+  width: 27px;
+  height: 27px;
+  position: relative;
+  z-index: 2;
+}
+.component-1-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 4px 0 0;
+}
+.notification-1-icon {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  object-fit: cover;
+  z-index: 2;
+}
+.notification-1-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 5px 0 0;
+}
+.component-2-child {
+  position: absolute;
+  height: 52%;
+  width: 52%;
+  top: 24%;
+  right: 24%;
+  bottom: 24%;
+  left: 24%;
+  border-radius: 50%;
+  background-color: #fff;
+}
+.settings-gear-icon-1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+.component-2 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  z-index: 2;
+}
+.component-2-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 5px 0 0;
+}
+.user-1-5-icon {
+  height: 35px;
+  width: 35px;
+  position: relative;
+  object-fit: cover;
+  z-index: 2;
+}
+.frame-parent81 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.frame-header,
+.frame-wrapper71 {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-wrapper71 {
+  width: 497px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 14.5px 0 0;
+}
+.frame-header {
+  align-self: stretch;
+  height: 125px;
+  box-shadow: 4px 4px 25px rgba(0, 0, 0, 0.15);
+  background-color: #fff;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 30.5px 37px 30.5px 20.1px;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  gap: 20px;
+}
+@media screen and (max-width: 825px) {
+  .frame-parent80 {
+    gap: 44px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .frame-parent80 {
+    gap: 22px;
+  }
+}

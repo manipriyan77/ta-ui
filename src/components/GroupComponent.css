@@ -1,0 +1,108 @@
+.mask-group-icon2 {
+  width: 64px;
+  height: 64px;
+  position: relative;
+  object-fit: cover;
+}
+.mask-group-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2px 0 0;
+}
+.john-doe4 {
+  font-weight: 500;
+  display: inline-block;
+  min-width: 58.6px;
+}
+.john-doe4,
+.senior-python-develpper2 {
+  position: relative;
+}
+.hired-by-stella2 {
+  width: 81.2px;
+  position: relative;
+  font-size: 9px;
+  display: inline-block;
+}
+.frame-wrapper92,
+.senior-python-develpper-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.senior-python-develpper-parent {
+  gap: 10px;
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+}
+.frame-wrapper92 {
+  flex: 1;
+  padding: 12.2px 0 0;
+}
+.frame-child136 {
+  height: 38px;
+  width: 73.8px;
+  position: relative;
+  border-radius: 5px;
+  border: 1px solid #0a66c2;
+  box-sizing: border-box;
+  display: none;
+}
+.details5 {
+  position: relative;
+  font-size: 12px;
+  font-family: Poppins;
+  color: #0a66c2;
+  text-align: left;
+  display: inline-block;
+  min-width: 44.5px;
+  z-index: 1;
+}
+.rectangle-parent45 {
+  cursor: pointer;
+  border: 1px solid #0a66c2;
+  padding: 8px 14.6px 8px 14.7px;
+  background-color: transparent;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+}
+.rectangle-parent45:hover {
+  background-color: rgba(48, 140, 232, 0.09);
+  border: 1px solid #308ce8;
+  box-sizing: border-box;
+}
+.frame-parent99 {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 28.4px;
+  margin-top: -3px;
+  font-size: 11px;
+}
+.frame-parent98,
+.frame-parent99,
+.john-doe-parent1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.john-doe-parent1 {
+  flex: 1;
+  flex-direction: column;
+}
+.frame-parent98 {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 12.2px;
+  text-align: left;
+  font-size: 12px;
+  color: #3e3e3e;
+  font-family: Poppins;
+}

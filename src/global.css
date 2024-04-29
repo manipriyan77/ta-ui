@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+.job-card-container {
+  width: 68px;
+  height: 18px;
+  top: 1871.74px;
+  left: 736px;
+  gap: 0px;
+  opacity: 0px;
+  display: flex;
+  flex-direction: column;
+}
+
+.job-card-title {}
+
+.job-card-content {
+  width: 126px;
+  height: 158px;
+  top: 1671.74px;
+  left: 615px;
+  gap: 0px;
+  opacity: 0px;
+  margin: auto;
+}
